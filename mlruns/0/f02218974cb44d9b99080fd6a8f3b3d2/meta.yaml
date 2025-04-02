@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/ayushsingh/Desktop/end-to-end-production-grade-projects/prices-predictor-system/mlruns/0/f02218974cb44d9b99080fd6a8f3b3d2/artifacts
+end_time: 1743629667545
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f02218974cb44d9b99080fd6a8f3b3d2
+run_name: grandiose-deer-450
+run_uuid: f02218974cb44d9b99080fd6a8f3b3d2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743629667283
+status: 3
+tags: []
+user_id: kishorereddymamidi

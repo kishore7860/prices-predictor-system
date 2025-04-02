@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/ayushsingh/Desktop/end-to-end-production-grade-projects/prices-predictor-system/mlruns/0/279b6c0744044a6aa390a68dbcfc097b/artifacts
+end_time: 1743629453717
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 279b6c0744044a6aa390a68dbcfc097b
+run_name: exultant-flea-200
+run_uuid: 279b6c0744044a6aa390a68dbcfc097b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743629453458
+status: 3
+tags: []
+user_id: kishorereddymamidi

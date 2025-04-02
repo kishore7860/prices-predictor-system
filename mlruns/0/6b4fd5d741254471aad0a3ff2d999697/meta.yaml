@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/ayushsingh/Desktop/end-to-end-production-grade-projects/prices-predictor-system/mlruns/0/6b4fd5d741254471aad0a3ff2d999697/artifacts
+end_time: 1743629369082
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6b4fd5d741254471aad0a3ff2d999697
+run_name: fortunate-lark-950
+run_uuid: 6b4fd5d741254471aad0a3ff2d999697
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743629365176
+status: 3
+tags: []
+user_id: kishorereddymamidi

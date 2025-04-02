@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/ayushsingh/Desktop/end-to-end-production-grade-projects/prices-predictor-system/mlruns/0/62f3c21f72ef4954be6464df70ee6040/artifacts
+end_time: 1743629423670
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 62f3c21f72ef4954be6464df70ee6040
+run_name: funny-elk-100
+run_uuid: 62f3c21f72ef4954be6464df70ee6040
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743629423413
+status: 3
+tags: []
+user_id: kishorereddymamidi
