@@ -15,4 +15,3 @@ EXPOSE 5000
 
 # Run the app (change if needed)
 CMD ["python", "app.py"]
-CMD ["python", "sample_predict.py"]
